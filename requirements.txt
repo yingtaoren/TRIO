@@ -1,0 +1,11 @@
+flashrag_dev==0.1.4.dev20250623
+html4vision==0.6.1
+huggingface_hub==0.33.1
+python_Levenshtein==0.26.1
+python_Levenshtein==0.27.3
+Requests==2.32.5
+torch==2.7.0
+tqdm==4.67.1
+transformers==4.53.0
+vllm==0.9.1
+ray==2.47.1
