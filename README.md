@@ -2,6 +2,7 @@
 
 # TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation
 
+Official implementation of **EMNLP 2026 findins paper** TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation.
 
 
 </div>
@@ -162,6 +163,41 @@ python main.py --method_name "TRIO" \
 ```
 
 ---
+
+## Citation
+
+If you find our work useful, please consider citing our paper:
+
+Paper: [TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation
+]([https://dl.acm.org/doi/abs/10.1145/3805712.3809904](https://aclanthology.org/2026.findings-emnlp.937/))
+
+```bibtex
+@inproceedings{ren-etal-2026-trio,
+    title = "{TRIO}: Task Refinement with Individual Optimization for Retrieval-Augmented Generation",
+    author = "Ren, Yingtao  and
+      Luo, Xiao  and
+      Fu, Yiwei  and
+      Zhou, Jinzhao  and
+      Chang, Yu-Cheng  and
+      Lin, Chin-teng",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2026",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-emnlp.937/",
+    doi = "10.18653/2026.findings-emnlp.937",
+    pages = "19765--19782",
+    ISBN = "979-8-89176-462-0"
+}
+```
+
+---
+
 
 ## ✨ Acknowledgments
 
