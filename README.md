@@ -2,15 +2,13 @@
 
 # TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation
 
-Official implementation of **EMNLP 2026 findins paper** TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation.
-
 
 </div>
 
 
 ## 🌟 Introduction
 
-This repository is the official implementation of **TRIO** (Task Refinement with Individual Optimization for Retrieval-Augmented Generation), a novel framework designed to improve Retrieval-Augmented Generation (RAG) systems.
+This repository is the official implementation of **EMNLP 2026 findins paper** TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation, a novel framework designed to improve Retrieval-Augmented Generation (RAG) systems.
 
 ---
 
